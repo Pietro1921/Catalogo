@@ -1,2 +1,21 @@
-# Catalogo
-Página estilo Linktree desenvolvida com HTML e CSS para centralizar links de redes sociais e contatos. Possui layout moderno, animações e design responsivo.
+# Link Bio
+
+Página estilo Linktree desenvolvida com **HTML e CSS**.
+
+## Funcionalidades
+
+- Página de links para bio do Instagram
+- Ícones de redes sociais
+- Botões animados
+- Layout moderno
+- Responsivo para celular
+
+## Tecnologias
+
+- HTML
+- CSS
+- Font Awesome
+
+## Autor
+
+Pietro Lage
